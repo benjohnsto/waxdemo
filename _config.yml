@@ -20,8 +20,8 @@
 
 title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://benjohnsto.github.io/waxdemo'
-baseurl:          '/waxdemo'
+url:              'https://benjohnsto.github.io'
+baseurl:          '/'
 copyright:        'Example copyright org, 2021'
 logo:             '/assets/logo.png'
 
