@@ -22,7 +22,7 @@ title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://benjohnsto.github.io/waxdemo'
 baseurl:          '/waxdemo'
-copyright:        'Example copyright org, 2019'
+copyright:        'Example copyright org, 2021'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
