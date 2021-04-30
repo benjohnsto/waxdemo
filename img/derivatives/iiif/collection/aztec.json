@@ -1,0 +1,36 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/aztec.json",
+  "@type": "sc:Collection",
+  "label": "aztec",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/05/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "05"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/01/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "01"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/02/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "02"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/03/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "03"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/04/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "04"
+    }
+  ]
+}
